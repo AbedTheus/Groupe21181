@@ -15,7 +15,7 @@ Selon les choix , le programe pousse le personnage vers différentes branches de
 Bobby s’en rend compte trop tard.
 
 Le sentier qu’il suivait depuis le début de l’après-midi a disparu. Les marques rouges peintes sur les arbres se sont faites rares, puis inexistantes. Autour de lui, la forêt semble plus dense, plus sombre, comme si elle se refermait lentement.
-
+#
 Bobby s’arrête.
 Le silence est étrange, pesant.
 
