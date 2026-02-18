@@ -37,10 +37,32 @@ def fonction_arbre():
         choix2 = poser_question(
             "bobby avance dans la foret et il entend un bruit",
             "aller dans la direction du bruit",
-            
-
-
+            "aller dans le sens opposé du bruit"
         )
+
+        if choix2 == "1":
+
+            choix3 = poser_question(
+                "Bobby se dirige sur la pointe des pieds tel un ninja vers le bruit et il remarque une vielle cabanne au milieu de la foret",
+                "il va vers la cabanne malgré les bruit effrayant",
+                "plus il s'approche de la cabanne plus il a peur du bruit et finis par s'enfuire"
+            )
+
+            if choix3 == "1":
+
+                choix4 = poser_question(
+                    "Bobby entre dans la cabanne et le bruit effrayant est un bucheron couvert de sang qui decoupe une viande rouge",
+                    "",
+                    ""
+
+
+                )
+            
+            elif choix3 == "2":
+
+
+        elif choix2 == "2":
+
 
 
     elif choix1 == "2":
