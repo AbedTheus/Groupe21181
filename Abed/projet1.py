@@ -22,3 +22,25 @@ def poser_question(question, option1, option2):
     
     choix = input("votre choix : ")
     return choix
+
+def fonction_arbre():
+    """Fonction qui contien l'arbre des decisions"""
+
+    choix1 = poser_question(
+        "Bobby un explorateur talentueux est perdu dans une foret sans son materielle pour l'aider a s'en sortir, que dois-t'il faire?",
+        "avancer dans la foret  au hazard en esperant trouver quelque chose qui peut l'aider a s'en sortir",
+        "rester la et reflechir"
+    )
+
+    if choix1 == "1":
+        
+        choix2 = poser_question(
+            "bobby avance dans la foret et il entend un bruit",
+            "aller dans la direction du bruit",
+            
+
+
+        )
+
+
+    elif choix1 == "2":
